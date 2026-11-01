@@ -15,8 +15,8 @@ Se la build fallisce, apri il passaggio rosso in Actions e copia l'errore.
 
 1. Fotocamera: tasto Riproduzione, poi tasto **Invia** (o Menu > Rete > Invia a smartphone) e scegli le foto. Premi il tasto **Cestino** per vedere SSID e password.
 2. App: inserisci SSID e password, tocca **Connetti** e conferma la richiesta di Android. In alternativa, se sei già connesso al Wi-Fi della fotocamera, tocca **Sono già connesso**.
-3. Tocca le miniature per selezionarle (oppure **Nuove** / **Tutte**), poi **Scarica**.
-4. Quando hai finito tocca **Fine**: la fotocamera esce dalla modalità di invio.
+3. Tocca una foto per ingrandirla (pizzica o doppio tap per lo zoom, scorri per le altre). Seleziona con il cerchio in alto a destra della miniatura, poi **Scarica**. Dal menu **⋯** trovi Seleziona nuove/tutte, Aggiorna elenco e Fine trasferimento.
+4. Quando hai finito scegli **Fine trasferimento** dal menu ⋯: la fotocamera esce dalla modalità di invio.
 
 ## Limiti
 
